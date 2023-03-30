@@ -1,4 +1,4 @@
-namespace ApiRest.Areas.HelpPage
+namespace ApiRest.Areas.HelpPage.SampleGeneration
 {
     /// <summary>
     /// Indicates whether the sample is used for request or response

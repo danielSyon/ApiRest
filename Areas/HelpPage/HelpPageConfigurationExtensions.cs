@@ -13,6 +13,7 @@ using System.Web.Http.Controllers;
 using System.Web.Http.Description;
 using ApiRest.Areas.HelpPage.ModelDescriptions;
 using ApiRest.Areas.HelpPage.Models;
+using ApiRest.Areas.HelpPage.SampleGeneration;
 
 namespace ApiRest.Areas.HelpPage
 {
